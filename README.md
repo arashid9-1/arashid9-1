@@ -1,16 +1,17 @@
-### Hi there 👋
+## About me
 
-<!--
-**arashid9-1/arashid9-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Top MSc Economics for Business Intelligence and Systems graduate from the University of Bath, adept in quantitative methods and economic theory. Experienced in real-world applications through research on Government Renewable Energy Procurement Auction design, creating housing market indicators with Fathom Consulting and evaluating development finance expenditure at Development Initiatives. I aim to apply this expertise in crafting and executing strategies for informed decisions and impactful results.
 
-Here are some ideas to get you started:
+My GitHub focuses on Housing market indicators, models and GIS visualisations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+## Example Projects
+
+![](https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/blob/main/animation.gif)
+
+![](https://github.com/arashid9-1/Automated-Valuation-Model/blob/main/AVM.gif)
+
+
+
+
