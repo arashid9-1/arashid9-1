@@ -12,6 +12,10 @@ My GitHub focuses on Housing market indicators, models and GIS visualisations
 
 ![](https://github.com/arashid9-1/Automated-Valuation-Model/blob/main/AVM.gif)
 
+<p align="center">
+  <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/blob/main/animation.gif" width="48%" />
+  <img src="https://github.com/arashid9-1/Automated-Valuation-Model/blob/main/AVM.gif" width="48%" />
+</p>
 
 
 
