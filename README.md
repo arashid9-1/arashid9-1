@@ -48,7 +48,7 @@ My GitHub focuses on exploring housing market indicators, developing predictive 
 <p align="center">
   <figure style="display: inline-block; margin-right: 20px; border: 2px solid #ccc; width: 48%;">
     <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/blob/main/animation.gif" style="width: 100%;" />
-    <figcaption style="text-align: center;">Decile evolution for UK sector house prices: 2008 - 2023 </figcaption>
+    <figcaption style="text-align: center;">Decile evolution for UK sector house prices </figcaption>
   </figure>
   <figure style="display: inline-block; border: 2px solid #ccc; width: 48%;">
     <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/raw/main/decile_change_2008_2023.png" style="width: 100%;" />
@@ -67,6 +67,27 @@ My GitHub focuses on exploring housing market indicators, developing predictive 
   </figure>
 </p>
 
+<div align="center">
+  <figure style="display: inline-block; margin-right: 20px; border: 2px solid #ccc; width: 48%;">
+    <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/blob/main/animation.gif" style="width: 100%;" />
+    <figcaption style="text-align: center;">Decile evolution for UK sector house prices</figcaption>
+  </figure>
+  <figure style="display: inline-block; border: 2px solid #ccc; width: 48%;">
+    <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/raw/main/decile_change_2008_2023.png" style="width: 100%;" />
+    <figcaption style="text-align: center;">Greatest house price decile changes in 2023 relative to 2008</figcaption>
+  </figure>
+</div>
+
+<div align="center">
+  <figure style="display: inline-block; margin-right: 20px; border: 2px solid #ccc; width: 48%;">
+    <img src="https://github.com/arashid9-1/Automated-Valuation-Model/blob/main/AVM.gif" style="width: 100%;" />
+    <figcaption style="text-align: center;">AVM instant house vauluation demonstration</figcaption>
+  </figure>
+  <figure style="display: inline-block; border: 2px solid #ccc; width: 48%;">
+    <img src="https://github.com/arashid9-1/Auction-Discount-Index/blob/main/ADI%20image.png" style="width: 100%;" />
+    <figcaption style="text-align: center;">Auction Discount Index</figcaption>
+  </figure>
+</div>
 
 
 
