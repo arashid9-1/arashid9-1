@@ -50,7 +50,7 @@ My GitHub focuses on exploring housing market indicators, developing predictive 
     <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/blob/main/animation.gif" width="48%" style="margin-right: 20px; border: 2px solid #ccc;"/>
     <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/raw/main/decile_change_2008_2023.png" width="48%" style="border: 2px solid #ccc;"/>
   </p>
-  <p style="width: 96%; margin: auto; text-align: center; font-size: 0.4em;"> <!-- Adjusted font-size here -->
+  <p style="width: 96%; margin: auto; text-align: left; font-size: 0.4em;"> <!-- Adjusted font-size here -->
     <span style="display: inline-block; width: 48%; margin-right: 20px; text-align: center;">Decile evolution for UK sector house prices</span>
     <span style="display: inline-block; width: 48%; text-align: center;">Greatest house price decile changes in 2023 relative to 2008</span>
   </p>
@@ -64,4 +64,36 @@ My GitHub focuses on exploring housing market indicators, developing predictive 
     <span style="display: inline-block; width: 48%; text-align: center;">Auction Discount Index</span>
   </p>
 </div>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="border: 2px solid #ccc; text-align: center; font-size: 0.8em;">
+        <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/blob/main/animation.gif" width="100%" />
+        <br>
+        Decile evolution for UK sector house prices
+      </td>
+      <td style="border: 2px solid #ccc; text-align: center; font-size: 0.8em;">
+        <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/raw/main/decile_change_2008_2023.png" width="100%" />
+        <br>
+        Greatest house price decile changes in 2023 relative to 2008
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 2px solid #ccc; text-align: center; font-size: 0.8em;">
+        <img src="https://github.com/arashid9-1/Automated-Valuation-Model/blob/main/AVM.gif" width="100%" />
+        <br>
+        AVM instant house valuation demonstration
+      </td>
+      <td style="border: 2px solid #ccc; text-align: center; font-size: 0.8em;">
+        <img src="https://github.com/arashid9-1/Auction-Discount-Index/blob/main/ADI%20image.png" width="100%" />
+        <br>
+        Auction Discount Index
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
