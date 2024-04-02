@@ -1,6 +1,6 @@
 ## About me
 
-Top MSc Economics for Business Intelligence and Systems graduate from the University of Bath, adept in quantitative methods and economic theory. Experienced in real-world applications through research on Government Renewable Energy Procurement Auction design, creating housing market indicators with Fathom Consulting and evaluating development finance expenditure at Development Initiatives. I aim to apply this expertise in crafting and executing strategies for informed decisions and impactful results.
+Top ranked MSc Economics for Business Intelligence and Systems graduate from the University of Bath, adept in quantitative methods and economic theory. Experienced in real-world applications through research on Government Renewable Energy Procurement Auction design, creating housing market indicators with Fathom Consulting and evaluating development finance expenditure at Development Initiatives. I aim to apply this expertise in crafting and executing strategies for informed decisions and impactful results.
 
 My GitHub focuses on exploring housing market indicators, developing predictive models, and creating GIS visualisations that reveal insightful trends.
 
