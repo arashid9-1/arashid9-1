@@ -11,7 +11,7 @@ My GitHub focuses on exploring housing market indicators, developing predictive 
    - Implemented Gao and Wang’s (2007) Unbalanced Panel (UP) model and an enhanced Autoregressive Mixed-Effects (ARME) model, based on Nagaraja et al. (2011), to estimate house price indices across 9,270 UK postcode sectors from 1996 to 2023, using HM Land Registry data.
    - Achieved a 21% reduction in prediction error (RMSE) with the ARME model compared to the UP model, demonstrating improved accuracy and reduced estimator bias.
 
-### 2. UK sector house price indices Animated Choropleth Map
+### 2. Animated Choropleth Map of UK House Price Indices
    - Developed an animated GIS visualisation displaying the evolution of relative house prices by UK postcode sector from 2008 to 2023, highlighting the dynamic housing market landscape.
 
 ### 3. Housing Market Forecasting Indicator: The Auction Discount Index
@@ -42,5 +42,31 @@ My GitHub focuses on exploring housing market indicators, developing predictive 
   <img src="https://github.com/arashid9-1/Automated-Valuation-Model/blob/main/AVM.gif" width="48%" />
   <img src="https://github.com/arashid9-1/Auction-Discount-Index/blob/main/ADI%20image.png" width="48%" />
 </p>
+
+
+
+<p align="center">
+  <figure style="display: inline-block; margin-right: 20px; border: 2px solid #ccc; width: 48%;">
+    <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/blob/main/animation.gif" style="width: 100%;" />
+    <figcaption style="text-align: center;">Decile evolution for UK sector house prices: 2008 - 2023 </figcaption>
+  </figure>
+  <figure style="display: inline-block; border: 2px solid #ccc; width: 48%;">
+    <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/raw/main/decile_change_2008_2023.png" style="width: 100%;" />
+    <figcaption style="text-align: center;">Greatest house price decile changes in 2023 relative to 2008</figcaption>
+  </figure>
+</p>
+
+<p align="center">
+  <figure style="display: inline-block; margin-right: 20px; border: 2px solid #ccc; width: 48%;">
+    <img src="https://github.com/arashid9-1/Automated-Valuation-Model/blob/main/AVM.gif" style="width: 100%;" />
+    <figcaption style="text-align: center;">AVM instant house vauluation demonstration</figcaption>
+  </figure>
+  <figure style="display: inline-block; border: 2px solid #ccc; width: 48%;">
+    <img src="https://github.com/arashid9-1/Auction-Discount-Index/blob/main/ADI%20image.png" style="width: 100%;" />
+    <figcaption style="text-align: center;">Auction Discount Index</figcaption>
+  </figure>
+</p>
+
+
 
 
