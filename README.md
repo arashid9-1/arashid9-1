@@ -89,5 +89,23 @@ My GitHub focuses on exploring housing market indicators, developing predictive 
   </figure>
 </div>
 
-
+<div align="center">
+  <p>
+    <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/blob/main/animation.gif" width="48%" style="margin-right: 20px; border: 2px solid #ccc;"/>
+    <img src="https://github.com/arashid9-1/UK-House-Price-Indicies-Animated-Choropleth-Map/raw/main/decile_change_2008_2023.png" width="48%" style="border: 2px solid #ccc;"/>
+  </p>
+  <p style="width: 96%; margin: auto; text-align: center;">
+    <span style="display: inline-block; width: 48%; margin-right: 20px;">Decile evolution for UK sector house prices</span>
+    <span style="display: inline-block; width: 48%;">Greatest house price decile changes in 2023 relative to 2008</span>
+  </p>
+  
+  <p>
+    <img src="https://github.com/arashid9-1/Automated-Valuation-Model/blob/main/AVM.gif" width="48%" style="margin-right: 20px; border: 2px solid #ccc;"/>
+    <img src="https://github.com/arashid9-1/Auction-Discount-Index/blob/main/ADI%20image.png" width="48%" style="border: 2px solid #ccc;"/>
+  </p>
+  <p style="width: 96%; margin: auto; text-align: center;">
+    <span style="display: inline-block; width: 48%; margin-right: 20px;">AVM instant house valuation demonstration</span>
+    <span style="display: inline-block; width: 48%;">Auction Discount Index</span>
+  </p>
+</div>
 
