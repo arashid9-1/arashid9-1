@@ -5,7 +5,7 @@ Top ranked MSc Economics for Business Intelligence and Systems graduate from the
 My GitHub focuses on exploring housing market indicators, developing predictive models, and creating GIS visualisations that reveal insightful trends.
 
 
-## Example Projects
+## Projects
 
 ### 1. House Price Modelling in Python
    - Implemented Gao and Wang’s (2007) Unbalanced Panel (UP) model and an enhanced Autoregressive Mixed-Effects (ARME) model, based on Nagaraja et al. (2011), to estimate house price indices across 9,270 UK postcode sectors from 1996 to 2023, using HM Land Registry data.
