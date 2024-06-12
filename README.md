@@ -25,11 +25,6 @@ My GitHub focuses on exploring housing market indicators, developing sophisticat
 ### 5. New York Flights 2013 SARIMA Analysis
    - Investigated causes of New York flight delays with SARIMA models and ggplot2 visualisations in R.
 
-### 6. Sudoku Solver
-   - Python Sudoku solver using constraint propagation with a MRV heuristic depth first search, taking inspiration from [Peter Norvig’s elegant solution](https://norvig.com/sudoku.html). 
-
-### 7. WW2 Enigma Machine Python Emulator
-
 
 
 <div align="center">
