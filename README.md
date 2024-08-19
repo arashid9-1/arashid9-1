@@ -1,26 +1,30 @@
 ## About me
 
-My GitHub focuses on exploring housing market indicators, developing sophisticated yet parsimonious pricing models, novel forecasting tools and creating GIS visualisations to uncover insightful trends.
+My GitHub focuses on exploring housing market indicators, developing  pricing models, novel forecasting tools and creating GIS visualisations to uncover insightful trends.
 
 
 ## Projects
 
-### 1. House Price Modelling in Python
+### 1. Quality of Life Index - England 
+- Developed a Quality of Life Index (QOLI) for English councils using Probabilistic Principal Component Analysis (PPCA) on eight socioeconomic indicators
+- Online interactive cholorpleth map link: https://quality-of-life-index-england.netlify.app/
+
+### 2. House Price Modelling in Python
    - Implemented Gao and Wang’s (2007) Unbalanced Panel (UP) model and an enhanced Autoregressive Mixed-Effects (ARME) model, based on Nagaraja et al. (2011), to estimate house price indices across 9,270 UK postcode sectors from 1996 to 2023, using HM Land Registry data.
    - Achieved a 21% reduction in prediction error (RMSE) with the ARME model compared to the UP model, demonstrating improved accuracy and reduced estimator bias.
 
-### 2. Animated Choropleth Map of UK House Price Indices
+### 3. Animated Choropleth Map of UK House Price Indices
    - Developed an animated GIS visualisation displaying the evolution of relative house prices by UK postcode sector from 2008 to 2023, highlighting the dynamic housing market landscape.
 
-### 3. Housing Market Forecasting Indicator: The Auction Discount Index
+### 4. Housing Market Forecasting Indicator: The Auction Discount Index
    - Introduced a novel indicator, the Auction Discount Index (ADI), utilising auction property sale data to forecast future market trends.
    - Proven forecasting capability up to seven months in advance through Granger-causality testing.
 
-### 4. Automated Valuation Model (AVM)
+### 5. Automated Valuation Model (AVM)
    - Crafted an AVM in Python for instant valuation of any UK property post-1996, based on parameters estimated via UP or ARME models. The model relies on historical data from the Land Registry Price Paid dataset.
 .
 
-### 5. New York Flights 2013 SARIMA Analysis
+### 6. New York Flights 2013 SARIMA Analysis
    - Investigated causes of New York flight delays with SARIMA models and ggplot2 visualisations in R.
 
 
