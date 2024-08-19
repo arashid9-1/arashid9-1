@@ -7,7 +7,7 @@ My GitHub focuses on exploring housing market indicators, developing  pricing mo
 
 ### 1. Quality of Life Index - England 
 - Developed a Quality of Life Index (QOLI) for English councils using Probabilistic Principal Component Analysis (PPCA) on eight socioeconomic indicators
-- Online interactive cholorpleth map link: https://quality-of-life-index-england.netlify.app/
+- Online interactive choropleth map link: https://quality-of-life-index-england.netlify.app/
 
 ### 2. House Price Modelling in Python
    - Implemented Gao and Wang’s (2007) Unbalanced Panel (UP) model and an enhanced Autoregressive Mixed-Effects (ARME) model, based on Nagaraja et al. (2011), to estimate house price indices across 9,270 UK postcode sectors from 1996 to 2023, using HM Land Registry data.
