@@ -1,6 +1,6 @@
 ## About me
 
-My GitHub focuses on exploring housing market indicators, developing  pricing models, novel forecasting tools and creating GIS visualisations to uncover insightful trends.
+My GitHub focuses on leveraging advanced statistical and data sciecne methods to explore housing market indicators, developing complex yet parsimonious pricing models, novel forecasting tools and creating GIS visualisations.
 
 
 ## Projects
