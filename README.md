@@ -1,6 +1,6 @@
 ## About me
 
-My GitHub focuses on leveraging advanced statistical and data science methods to construct new economic indicators, developing complex yet parsimonious models, novel forecasting tools and creating GIS visualisations.
+My GitHub focuses on leveraging advanced statistical and data science methods to construct new economic indicators, develop complex yet parsimonious models, novel forecasting tools and creating GIS visualisations.
 
 ## Projects
 
